@@ -1,0 +1,11 @@
+{
+	"id": "attachment-analyzer-plugin",
+	"name": "Attachment Analyzer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A plugin to analyze attachments linked by notes.",
+	"author": "HNIdesu",
+	"authorUrl": "https://github.com/hnidesu",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
